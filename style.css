@@ -4,7 +4,20 @@ img{
 ul{
   list-style-type: none;
 }
-a{
+li{
+  display: inline;
+}
+nav>ul>li > a{
   text-decoration: none;
   color:black;
+}
+a:hover{
+  color: blue;
+  font-size: 1.1em;
+}
+footer{
+  text-align: center;
+}
+main{
+  margin:auto;
 }
