@@ -1,7 +1,7 @@
 img{
   width: 30%;
 }
-ul{
+.nav-list{
   list-style-type: none;
 }
 li{
@@ -19,5 +19,12 @@ footer{
   text-align: center;
 }
 main{
-  margin:auto;
+  margin-right: 20%;
+  margin-left: 20%;
+  }
+h1{
+  text-align: center;
+}
+nav{
+  margin: auto;
 }
